@@ -55,7 +55,7 @@ This app is not directed at children under 13. If you are under 13, please do no
 ## Contact Us
 If you have questions about this Privacy Policy, please contact us:
 
-**Email:** support@aidominocounter.app  
+**Email:** gus.olivop@gmail.com
 
 ---
 
