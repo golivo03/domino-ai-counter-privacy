@@ -48,7 +48,7 @@ Advertising identifiers may be shared with **Google AdMob** to serve ads, in acc
 ---
 
 ## Children’s Privacy
-This app is not directed at children under 13. If you are under 13, please do not use the app.  
+This app is not directed at children under 4. If you are under 4, please do not use the app.  
 
 ---
 
