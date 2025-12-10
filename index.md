@@ -1,6 +1,6 @@
 # Privacy Policy for AI Domino Counter
 
-**Effective Date:** September 20, 2025
+**Effective Date:** December 10, 2025
 
 AI Domino Counter (“the App”) respects your privacy. This Privacy Policy explains how we collect, use, and protect your information when you use our app on both iOS and Android devices.
 
