@@ -74,4 +74,4 @@ If you have questions about this Privacy Policy, please contact us:
 
 ---
 
-_Last updated: September 20, 2025_
+_Last updated: December 10, 2025_
