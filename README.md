@@ -1,1 +1,1 @@
-# domino-ai-counter-privacy
+# ai-domino-counter-privacy
