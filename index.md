@@ -1,6 +1,6 @@
 # Privacy Policy for AI Domino Counter
 
-**Effective Date:** December 10, 2025
+**Effective Date:** March 30, 2026
 
 AI Domino Counter (“the App”) respects your privacy. This Privacy Policy explains how we collect, use, and protect your information when you use our app on both iOS and Android devices.
 
@@ -11,7 +11,7 @@ AI Domino Counter (“the App”) respects your privacy. This Privacy Policy exp
   The App uses **Google AdMob** to display banner ads. AdMob may collect advertising identifiers (such as IDFA on iOS / AAID on Android) to provide personalized or non-personalized ads, as well as general ad performance metrics. AdMob’s data handling is governed by Google’s Privacy Policy.
 
 - **Device Information**:  
-  Anonymous device and app usage data may be collected to improve app performance and show relevant ads. This may include information automatically provided by your device, Apple App Store Services, Google Play Services, or AdMob.
+  Anonymous device and app usage data may be collected to improve app performance and show relevant ads. This may include information automatically provided by your device, Apple App Store Services, Google Play Services, Firebase services, or AdMob.
 
 - **Camera Access**:  
   The App requests access to your device’s camera when you use the domino scanning feature. Images are processed locally on your device and are **not stored, transmitted, or shared** by us. You may revoke camera access at any time in your device settings.
@@ -23,9 +23,22 @@ We do **not** collect your name, email, phone number, location, contacts, or any
 ## How We Use the Information
 - To display ads through **Google AdMob**.  
 - To enable core functionality of the app (scanning domino pips with your camera).  
-- To improve stability and performance (basic crash and usage data may be collected automatically by Apple, Google, or third-party SDKs such as AdMob).  
+- To improve stability and performance (basic crash and usage data may be collected automatically by Apple, Google, or third-party SDKs such as AdMob).
+- To remotely configure certain app features such as advertisement behavior without requiring an app update.
 
 We do **not** use your data for tracking outside the app.
+
+---
+
+## Firebase Services
+
+The App uses Firebase Remote Config and may use Firebase Analytics, services provided by Google.
+
+Firebase Remote Config allows the app to adjust certain behaviors (such as enabling or disabling advertisements or modifying how often ads are shown) without requiring users to update the app.
+
+Firebase Analytics may collect anonymized usage data such as app interactions, session duration, and feature usage to help improve the app experience.
+
+These services may collect non-personal technical and usage data. This information is not used to directly identify users.
 
 ---
 
@@ -33,7 +46,10 @@ We do **not** use your data for tracking outside the app.
 The App uses the following third-party services, which have their own privacy policies:
 
 - **Google AdMob** – for advertising.  
-  https://policies.google.com/privacy  
+  https://policies.google.com/privacy
+
+- **Firebase (Google)** – for analytics and remote configuration.
+  https://policies.google.com/privacy
 
 - **Google Play Services** (Android) – for app distribution, analytics, and crash reporting.  
   https://policies.google.com/privacy  
@@ -74,4 +90,4 @@ If you have questions about this Privacy Policy, please contact us:
 
 ---
 
-_Last updated: December 10, 2025_
+_Last updated: March 30, 2026_
